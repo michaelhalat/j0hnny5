@@ -9,7 +9,6 @@
   <meta name="author" content="SitePoint">
   <link rel="stylesheet" href="assets/reset.css?v=1.0">
   <link rel="stylesheet" href="assets/styles.css?v=1.0">
-  <link rel="stylesheet" href="assets/debug.css">
 </head>
 
 <body>
